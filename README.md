@@ -26,7 +26,7 @@ The goal is to create a script in **Javascript (Vanilla JS)**, which will order 
 
 Change the HTML's style, in order that the thumbnail are displayed with the same size. The design should look like a basic recommendation.
 
-![A basic Amazon recommendation.](/recommendation-example.png "A recommendation example")
+![A basic Amazon recommendation.](/recommendation-example.png =250x)
 
 The test shouldn't take longer than an hour to complete. The step 2 doesn't have to be pixel-perfect.
 
