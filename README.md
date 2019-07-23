@@ -17,6 +17,7 @@ Among the files in this project, you will find a file called `thumbnails.html`.
 This file contains several thumbnails, having titles, images, prices, etc.
 
 The goal is to create a script in Javascript, which will order the thumbnails in ascending order of their price.
+
 *Warning:* some thumbnails are on sale, their promotional price must be taken into account and not the original price.
 
 A clean code and the time taken to submit the solution could make the difference.
