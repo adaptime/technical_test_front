@@ -1,2 +1,2 @@
-# technical_test_front
-This repository contains a technical test that should be completed in Javascript.
+# Adapti.me technical test
+This repository contains a technical test. This test should be completed in Javascript.
