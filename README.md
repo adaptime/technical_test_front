@@ -6,10 +6,10 @@ This repository contains a technical test. This test should be completed in Java
 
 To submit the test, you will need to:
 
-- **Fork** the project [adaptime / technical_test_front](https://github.com/adaptime/technical_test_front)
-- Solve the problem and add your solution to the project
-- Create a **Pull request** with your *full name* as the title, and send the solution files to <jobs@adapti.me>
-- Add any comments in the description of **Pull request** *(optional)*
+- **Clone** the project [adaptime / technical_test_front](https://github.com/adaptime/technical_test_front)
+- Solve the problem
+- Send your solution files to <jobs@adapti.me>
+- Don't forget to **join** all the files 
 
 ### The problem
 
@@ -26,8 +26,8 @@ The goal is to create a script in **Javascript (Vanilla JS)**, which will order 
 
 Change the HTML's style, in order that the thumbnail are displayed with the same size. The design should look like a basic recommendation.
 
-![A basic Amazon recommendation.](/recommendation-example.png =250x)
+![A basic Amazon recommendation.](/recommendation-example.png "A recommendation example")
 
 The test shouldn't take longer than an hour to complete. The step 2 doesn't have to be pixel-perfect.
 
-A clean code and the time taken to submit the solution could make the difference.
+A clean code and the time taken to submit the solution can make a difference.
