@@ -30,4 +30,6 @@ Change the HTML's style, in order that the thumbnail are displayed with the same
 
 The test shouldn't take longer than an hour to complete. The step 2 doesn't have to be pixel-perfect.
 
+Do not hesitate to add commentaries to your code.
+
 A clean code and the time taken to submit the solution can make a difference.
